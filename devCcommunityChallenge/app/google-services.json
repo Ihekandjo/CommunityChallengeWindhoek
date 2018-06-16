@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "467056775512",
+    "firebase_url": "https://community-challenge-89805.firebaseio.com",
+    "project_id": "community-challenge-89805",
+    "storage_bucket": "community-challenge-89805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467056775512:android:b83f272a8d42312d",
+        "android_client_info": {
+          "package_name": "io.pedrish.devccommunitychallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467056775512-qul68m3bffn6mhct3923al05uqlo2il1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "467056775512-qul68m3bffn6mhct3923al05uqlo2il1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAnoRx4sJh_jqTibnZ4gtnKKxN2YpYMEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
