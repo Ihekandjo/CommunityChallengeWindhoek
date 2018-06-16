@@ -1,7 +1,10 @@
 <resources>
   <string name="app_name">devCcommunityChallenge</string>
 
+
   <!-- Strings related to login -->
+  <string name="facebook_app_id">1559169124194112</string>
+  <string name="fb_login_protocol_scheme">fb1559169124194112</string>
   <string name="prompt_email">Email</string>
   <string name="prompt_password">Password (optional)</string>
   <string name="action_sign_in">Sign in or register</string>
